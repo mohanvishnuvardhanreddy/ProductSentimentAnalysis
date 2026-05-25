@@ -1,0 +1,16 @@
+Review_ID,Product_Name,Review_Text,Cleaned_Review,Sentiment
+1,Wireless Headphones,The sound quality is incredible and fits perfectly. Love it!,the sound quality is incredible and fits perfectly. love it!,Positive
+2,Smart Watch,Battery dies in two hours. Complete waste of money.,battery dies in two hours. complete waste of money.,Negative
+3,Coffee Maker,It makes decent coffee. Nothing spectacular but gets the job done.,it makes decent coffee. nothing spectacular but gets the job done.,Neutral
+4,Ergonomic Office Chair,My back pain is completely gone after using this for a week. Highly recommend!,my back pain is completely gone after using this for a week. highly recommend!,Negative
+5,Gaming Mouse,The click latency is awful and it keeps disconnecting during games.,the click latency is awful and it keeps disconnecting during games.,Negative
+6,Smartphone Case,It is just a basic plastic case. It fits the phone fine but feels a bit cheap.,it is just a basic plastic case. it fits the phone fine but feels a bit cheap.,Positive
+7,Running Shoes,Super comfortable and very lightweight. Perfect for my morning marathons.,super comfortable and very lightweight. perfect for my morning marathons.,Positive
+8,Blender 3000,"This thing is so loud it sounds like a jet engine, and it barely blends frozen fruit.","this thing is so loud it sounds like a jet engine, and it barely blends frozen fruit.",Positive
+9,Electric Toothbrush,"It works as advertised. Nothing more, nothing less. Battery life is average.","it works as advertised. nothing more, nothing less. battery life is average.",Neutral
+10,4K Monitor,The screen colors are stunning and the bezels are super thin. Amazing display!,the screen colors are stunning and the bezels are super thin. amazing display!,Positive
+11,Portable Power Bank,Stopped working after the second charge. Avoid this brand.,stopped working after the second charge. avoid this brand.,Negative
+12,Laptop Backpack,Lots of pockets and decent material. It's an okay bag for school.,lots of pockets and decent material. it's an okay bag for school.,Positive
+13,Mechanical Keyboard,The switches feel amazing to type on and the RGB lighting looks spectacular.,the switches feel amazing to type on and the rgb lighting looks spectacular.,Positive
+14,Robot Vacuum,It constantly gets stuck under the couch and misses half the dirt on the floor.,it constantly gets stuck under the couch and misses half the dirt on the floor.,Negative
+15,Desk Lamp,It provides light. The brightness settings are fine.,it provides light. the brightness settings are fine.,Positive
