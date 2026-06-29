@@ -1,12 +1,6 @@
 # Product Sentiment Analysis Pipeline 🧠🚀
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/mohanvishnuvardhanreddy/ProductSentimentAnalysis?style=flat-square&logo=github)](https://github.com/mohanvishnuvardhanreddy/ProductSentimentAnalysis)
-[![GitHub Issues](https://img.shields.io/github/issues/mohanvishnuvardhanreddy/ProductSentimentAnalysis?style=flat-square)](https://github.com/mohanvishnuvardhanreddy/ProductSentimentAnalysis/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/mohanvishnuvardhanreddy/ProductSentimentAnalysis?style=flat-square&logo=github)](https://github.com/mohanvishnuvardhanreddy/ProductSentimentAnalysis)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 A lightweight, automated Natural Language Processing (NLP) pipeline built with Python that processes unstructured consumer reviews and accurately categorizes user sentiment into **Positive**, **Negative**, and **Neutral** categories.
 
